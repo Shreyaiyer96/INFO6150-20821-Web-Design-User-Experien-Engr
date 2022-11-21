@@ -8,7 +8,7 @@ const Job = () => {
     <div>
       <Navbar />
       <Container>
-        <h1 className='text-center py-3'>Job Listings</h1>
+        <h1 className='text-center py-3' id="jobh1" >Job Listings</h1>
         <Accordion>
           {
             jobListings.map((item, idx) => <Accordion.Item key={idx} eventKey={idx}>

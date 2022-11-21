@@ -7,8 +7,8 @@ const Contact = () => {
     <div class="contact-form">
         <div class="cards">
           <div class="card-body">
-            <h2 class="text-center">Contact US</h2>
-            <p class="text-center" >
+            <h2 class="text-center" id="contacth2">Contact US</h2>
+            <p class="text-center" id="contactp">
               Contact us for queries and questions regarding courses and job
               opportunities.
             </p>

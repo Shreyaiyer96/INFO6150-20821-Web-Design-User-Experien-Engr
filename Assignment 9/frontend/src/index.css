@@ -17,6 +17,27 @@ code {
     monospace;
 }
 
+#contacth2{
+
+  color: white;
+}
+
+#contactp{
+
+  color: white;
+}
+
+#abouth2{
+
+  color: white;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+#jobh1{
+
+  color: white;
+}
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
 * {
