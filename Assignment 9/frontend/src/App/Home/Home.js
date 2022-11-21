@@ -6,16 +6,12 @@ const Home = () => {
       <Navbar />
       <div>
         <div class="container px-4 px-lg-5">
-          <div class="row gx-4 gx-lg-5 align-items-center my-5">
+          <div class="row gx-4 gx-lg-5 align-items-center my-5" id="homepage" >
             <div class="col-lg-7">
-              <img
-                class="img-fluid rounded mb-4 mb-lg-0"
-                src="https://www.datocms-assets.com/14946/1633281680-ux-vs-ui-cover-edited.png?auto=format&w=912"
-                alt="..."
-              />
+
             </div>
             <div class="col-lg-5">
-              <h2 class="font-weight-light">INFO 6150 - Fall 2022</h2>
+              <h2 class="font-weight-light">Join us for an amazing experience!</h2>
               <p>
                 Exposes students to both conceptual and technical aspects of Web
                 design and User Experience. Studies the fundamental concepts,
