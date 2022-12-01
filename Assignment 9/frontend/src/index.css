@@ -12,6 +12,15 @@ body {
   background-repeat: no-repeat;
 }
 
+h1{
+text-align: center;
+margin-top: 5%;
+padding-top: 2%;
+color: white;
+}
+
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
